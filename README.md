@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm KIHSO 👋
 
-<!--
-**KIHs0/KIHs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Skills**
+- **Languages**: HTML, CSS, JavaScript, SQL, C++,
+- **Frameworks**: React, Node.js, 
+- **Tools**: Git, Hoppscotch, VS Code,
+- **Other**: DSA.
+
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![React](https://img.shields.io/badge/React-18.2-blue)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)
+![C++](https://img.shields.io/badge/C++-17-orange)
+
+
+## 🛠️ **Projects**
+- **[Project Name 1](link)**: Brief description of the project.
+- **[Project Name 2](link)**: Brief description of the project.
+
+## 📫 **Get in Touch**
+- **Email**: kihsogaming@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](link)
+- **Portfolio**: [Your Portfolio Website](link)
+
+## 📊 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIHSO&show_icons=true&theme=radical)
+
+
+![Build Status](https://github.com/KIHSO/yourrepo/actions/workflows/main.yml/badge.svg)
+
