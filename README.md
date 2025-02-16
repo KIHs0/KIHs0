@@ -27,13 +27,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **[Project Name 2](link)**: Brief description of the project.
 
 ## 📫 **Get in Touch**
-- **Email**: kihsogaming@gmail.com
+- **Email**:
+   kihsogaming@gmail.com
 
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link 
-- **LinkedIn**:
-                                                                                                                                                                     LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHSO</a></div>
+- **LinkedIn**:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHS0</a></div>
               
-- **Portfolio**: [Your Portfolio Website](link)
+              
+- **Portfolio**:
+   [Your Portfolio Website](link)
 
 ## 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIHSO&show_icons=true&theme=radical)
