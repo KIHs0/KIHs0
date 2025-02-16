@@ -28,7 +28,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 📫 **Get in Touch**
 - **Email**: kihsogaming@gmail.com
-- **LinkedIn**: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHSO Anshari</a></div>
+
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link 
+- **LinkedIn**:
+                                                                                                                                                                     LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHSO</a></div>
               
 - **Portfolio**: [Your Portfolio Website](link)
 
