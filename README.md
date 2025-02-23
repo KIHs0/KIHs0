@@ -44,3 +44,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ![Build Status](https://github.com/KIHSO/yourrepo/actions/workflows/main.yml/badge.svg)
 
+### 📊 GitHub Contributions
+[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
+
+
+
+### ⚡ GitHub Stats and Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIHs0&theme=dark)](https://github.com/KIHs0)
