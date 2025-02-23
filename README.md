@@ -48,12 +48,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### 📊 GitHub Contributions
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
 
-
+### 🟩 Contribution Squares
+[![Contribution Squares](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
 
 ### ⚡ GitHub Stats and Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIHs0&theme=dark)](https://github.com/KIHs0)
 
-
-### 🚀 Recent GitHub Activity
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=KIHs0&theme=react-dark)](https://github.com/KIHs0)
+### 🟩 GitHub Contribution Squares
+![GitHub Skyline](https://github.com/KIHs0/KIHs0/raw/main/skyline.png)
