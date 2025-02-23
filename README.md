@@ -1,4 +1,4 @@
-# Hi, I'm KIHSO 👋
+Hu# Hi, I'm KIHSO 👋
 
 🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
 
@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ![Build Status](https://github.com/KIHSO/yourrepo/actions/workflows/main.yml/badge.svg)
 
+
 ### 📊 GitHub Contributions
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
 
@@ -52,3 +53,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ### ⚡ GitHub Stats and Contributions
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIHs0&theme=dark)](https://github.com/KIHs0)
+
+
+### 🚀 Recent GitHub Activity
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=KIHs0&theme=react-dark)](https://github.com/KIHs0)
