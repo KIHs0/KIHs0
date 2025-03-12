@@ -1,4 +1,4 @@
- Hi, Welcome Thou  ~ 👋
+ Hi, Welcome Thou  ~ 👋 
 
 🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🔧 **Skills**
 - **Languages**: HTML, CSS, JavaScript, SQL, C++,
-- ** Database : MYSQL, MongoDB,
+- **Database** : MYSQL, MongoDB,
 - **Frameworks**: React, Node.js, Express,  
 - **Tools**: Git, Hoppscotch, VS Code, Mongoose,
 - **Other**: DSA C++
@@ -24,12 +24,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️ **Projects**
-- **[Project Name 1](https://github.com/KIHs0/WeatherChecker.git)**: Brief description of the project.
-- **[Project Name 2](https://github.com/KIHs0/MusicPlayer.git)**: Brief description of the project.
+- **[wEatHeR ChEcKeR](https://github.com/KIHs0/WeatherChecker.git)**: Api Based Weather Data Based Upon User Search . Credits:: OpenweatherAPI
+- **[mUsIcPlAyEr](https://github.com/KIHs0/MusicPlayer.git)**: Open Music PLayer like of An MOS
 
 ## 📫 **Get in Touch**
 - **Email**:
-  
    kihsogaming@gmail.com
 
 - **LinkedIn**:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHS0</a></div>
