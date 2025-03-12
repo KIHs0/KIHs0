@@ -1,4 +1,4 @@
-Hu# Hi, I'm KIHSO 👋
+ Hi, Welcome Thou  ~ 👋
 
 🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
 
@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🔧 **Skills**
 - **Languages**: HTML, CSS, JavaScript, SQL, C++,
-- **Frameworks**: React, Node.js, 
-- **Tools**: Git, Hoppscotch, VS Code,
-- **Other**: DSA.
+- ** Database : MYSQL, MongoDB,
+- **Frameworks**: React, Node.js, Express,  
+- **Tools**: Git, Hoppscotch, VS Code, Mongoose,
+- **Other**: DSA C++
 
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -23,8 +24,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️ **Projects**
-- **[Project Name 1](link)**: Brief description of the project.
-- **[Project Name 2](link)**: Brief description of the project.
+- **[Project Name 1](https://github.com/KIHs0/WeatherChecker.git)**: Brief description of the project.
+- **[Project Name 2](https://github.com/KIHs0/MusicPlayer.git)**: Brief description of the project.
 
 ## 📫 **Get in Touch**
 - **Email**:
@@ -34,9 +35,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **LinkedIn**:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHS0</a></div>
               
               
-- **Portfolio**:
 
-   [Your Portfolio Website](link)
 
 
 
