@@ -1,5 +1,5 @@
- Hi, Welcome Thou  ~ 👋 
-
+ Hi, Welcome Thou  ~ ![t-rex_1f996](https://github.com/user-attachments/assets/a008177d-a605-4a44-b61f-32561295e404)
+🦖
 🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
 
 Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code.
