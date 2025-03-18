@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️ **Projects**
-- **[wEatHeR ChEcKeR](https://github.com/KIHs0/WeatherChecker.git)**: Api Based Weather Data Based Upon User Search . Credits:: OpenweatherAPI
-- **[mUsIcPlAyEr](https://github.com/KIHs0/MusicPlayer.git)**: Open Music PLayer like of An MOS
+- **[WEATHERME](https://github.com/KIHs0/WeatherChecker.git)**: Api Based Weather Data Based Upon User Search:Credits:: OpenweatherAPI
+- **[MUSICYOU](https://github.com/KIHs0/MusicPlayer.git)**: Open Music PLayer like of An MOS
 
 ## 📫 **Get in Touch**
 - **Email**:
