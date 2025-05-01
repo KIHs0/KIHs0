@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ## 🔧 **Skills**
 - **Languages**: HTML, CSS, JavaScript, SQL, C++,
 - **Database** : MYSQL, MongoDB,
-- **Frameworks**: React, Node.js, Express, GSAP Bootstrap 
+- **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
 - **Tools**: Git, Hoppscotch, VS Code, Mongoose,
-- **Other**: DSA C++
+- **Other**: DSA - C++
 
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -33,12 +33,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Email**:
    kihsogaming@gmail.com
 
-- **LinkedIn**:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kihs0786" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/kihs0786?trk=profile-badge">KIHS0</a></div>
               
               
-
-
-
 
 ### 📊 GitHub Contributions
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
