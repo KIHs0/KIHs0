@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️ ** LIVE Projects**
--[](https://kihsotype.onrender.com)
+![KIHSOTYPE](https://kihsotype.onrender.com)
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: TYPING GAME🎮🕹️
