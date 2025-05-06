@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ![C++](https://img.shields.io/badge/C++-17-orange)
 
 
-## 🛠️ ** LIVE Projects**
+## 🛠️🕹️ **LIVE Projects**
 🔗 **Live🎮:** https://kihsotype.onrender.com
 
 ## 🛠️ **Projects**
