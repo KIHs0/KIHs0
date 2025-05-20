@@ -7,10 +7,11 @@
 Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code.
 
 ## 🔧 **Skills**
-- **Languages**: HTML, CSS, JavaScript, SQL, C++,
+- **Languages**: JavaScript, SQL, C++, TypeScript , FORTRAN , 
 - **Database** : MYSQL, MongoDB,
 - **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
-- **Tools**: Git, Hoppscotch, VS Code, Mongoose,
+- **Tools**: Git, Hoppscotch, VS Code, Mongoose , Bash
+- **Cloud**:Cloudinary, MongoDBAtlas,
 - **Other**: DSA - C++
 
 <p align="left">
