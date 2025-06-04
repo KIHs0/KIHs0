@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: TYPING GAME🎮🕹️
-- **[WEATHERME](https://github.com/KIHs0/WeatherChecker.git)**: Api Based Weather Data Based Upon User Search:Credits:: OpenweatherAPI
+- **[WEATHERME](https://github.com/KIHs0/ProjectX)**: 
 - **[MUSICYOU](https://github.com/KIHs0/MusicPlayer.git)**: Open Music PLayer like of An MOS
 
 ## 📫 **Get in Touch**
