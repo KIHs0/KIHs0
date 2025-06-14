@@ -2,15 +2,16 @@
  
  Hi,Welcome Thou ~👋
 
-🚀 **Full-Stack Developer** | 💻 **Open Source Enthusiast** | 🌱 **Always Learning**
+**Full-Stack Developer** | | 🕹️ 2D Game DEV | 💻 **Open Source Enthusiast** | 🌱 **Always Learning** 
 
 Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code.
 
 ## 🔧 **Skills**
-- **Languages**: JavaScript, SQL, C++, TypeScript , FORTRAN , 
+- **Languages**: JavaScript, SQL, C++, TypeScript , Lua , 
 - **Database** : MYSQL, MongoDB,
 - **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
-- **Tools**: Git, Hoppscotch, VS Code, Mongoose , Bash
+- **Game Engine : LÖVE ,
+- **Tools**: Git, Hoppscotch, VS Code, Mongoose , Bash 
 - **Cloud**:Cloudinary, MongoDBAtlas,
 - **Other**: DSA - C++
 
