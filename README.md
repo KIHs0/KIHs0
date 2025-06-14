@@ -68,7 +68,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" width="54" height="54" alt="GSAP" style="background: white;" />
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="54" height="54" alt="Express.js" style="background: white; border-radius: 6px; padding: 4px;" />
+  <img src="https://github.com/user-attachments/assets/3f3fe513-db19-4161-9c1f-34e310d41236" width="54" height="54" alt="Express.js" style="background: white; border-radius: 6px; padding: 4px;" />
+</a>
+<a href="https://love2d.org/" target="_blank" rel="noreferrer">
+  <img src="https://love2d.org/w/images/thumb/1/11/love-game-0.10.png/900px-love-game-0.10.png" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
+</a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/354020/lua.svg" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
 
 
