@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** | | 🕹️ 2D Game DEV | 💻 **Open Source Enthusiast** | 🌱 **Always Learning** 
 
-Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code.
+Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code and making 2D Games using LOVE engine & Lua script😉
 
 ## 🔧 **Skills**
 - **Languages**: JavaScript, SQL, C++, TypeScript , Lua , 
