@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="54" height="54" alt="JavaScript" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
+    <img src="https://www.typescriptlang.org/favicon.ico" alt="TypeScript" />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="54" height="54" alt="VS Code" />
   </a>
