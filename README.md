@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Database** : MYSQL, MongoDB,
 - **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
 - **Game Engine : LÖVE ,
-- **Tools**: Git, Hoppscotch, VS Code, Mongoose , Bash 
+- **Tools**: Git, VS Code, Mongoose , Bash , 
 - **Cloud**:Cloudinary, MongoDBAtlas,
 - **Other**: DSA - C++
 
@@ -102,16 +102,15 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 🔗 **Live🎮:** https://kihsotype.onrender.com
 
 ## 🛠️ **Projects**
-- **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: TYPING GAME🎮🕹️
-- **[Tourist](https://github.com/KIHs0/Project-X.git)**: 
-- **[MUSICYOU](https://github.com/KIHs0/MusicPlayer.git)**: Open Music PLayer like of An MOS
+- **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: An Essential Typing Tutor🕹️
+- **[Tourist](https://github.com/KIHs0/Project-X.git)**: Anonymous Video Sharing PLatform ,
+- **[npm Package](https://github.com/KIHs0/base64-blob-file)**: An NPM Package Useful While Working With URL and FILE ,
+- 
 
 ## 📫 **Get in Touch**
 - **Email**:
    kihsogaming@gmail.com
-
-              
-              
+      
 
 ### 📊 GitHub Contributions
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
