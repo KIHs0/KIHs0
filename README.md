@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354020/lua.svg" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+<a href="https://www.love2d.org/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4XYrYhK7VG-jZnEJOMTdml2hzNmSBJHtdw&s" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
 
