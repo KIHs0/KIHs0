@@ -74,9 +74,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/user-attachments/assets/3f3fe513-db19-4161-9c1f-34e310d41236" width="54" height="54" alt="Express.js" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
-<a href="https://love2d.org/" target="_blank" rel="noreferrer">
-  <img src="https://love2d.org/w/images/thumb/1/11/love-game-0.10.png/900px-love-game-0.10.png" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
-</a>
+
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/354020/lua.svg" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
