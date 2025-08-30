@@ -116,12 +116,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Email**:
    kihsogaming@gmail.com
       
-
+### 🟩 Contribution Squares
+[![Contribution Squares](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
 ### 📊 GitHub Contributions
 [![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
 
-### 🟩 Contribution Squares
-[![Contribution Squares](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KIHs0&theme=github_dark)](https://github.com/KIHs0)
+
 
 
 
