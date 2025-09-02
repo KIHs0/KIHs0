@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Languages**: JavaScript, SQL, C++, TypeScript , Lua , 
 - **Database** : MYSQL, MongoDB,
 - **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
-- **Game Engine : LÖVE ,
+- **Game Engine** : LÖVE ,
 - **Tools**: Git, VS Code, Mongoose , Bash , 
 - **Cloud**:Cloudinary, MongoDBAtlas,
 - **Other**: DSA - C++
