@@ -97,8 +97,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🛠️🕹️ **LIVE Projects**
 🔗 **Live🎮:** https://kihsotype.onrender.com
-🔗 **Live👕:**https://playground-a987.onrender.com
-🔗 **Live🔞:**(confidential Live)
+🔗 **Live👕:** https://playground-a987.onrender.com
+🔗 **Live🔞:** (confidential Live)
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: An Essential Typing Tutor,
