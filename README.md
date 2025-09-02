@@ -107,7 +107,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️🕹️ **LIVE Projects**
-🔗 **Live🎮:** https://kihsotype.onrender.com
+🔗 **Live🎮:** https://kihsotype.onrender.com <br>
+🔗 **Live📦:** https://www.npmjs.com/package/base64-blob-file <br>
 🔗 **Live👕:** https://playground-a987.onrender.com <br>
 🔗 **Live🔞:** Tourist (confidential Live)
 
