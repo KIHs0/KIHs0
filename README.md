@@ -16,6 +16,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Other**: DSA - C++
 
 <p align="left">
+
+
+
+
+
+
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="54" height="54" alt="JavaScript" />
   </a>
@@ -83,7 +90,11 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 <a href="https://www.love2d.org/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4XYrYhK7VG-jZnEJOMTdml2hzNmSBJHtdw&s" width="54" height="54" alt="Love" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
+
+
 </p>
+
+
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
