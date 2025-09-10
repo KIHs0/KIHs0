@@ -110,7 +110,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 🔗 **Live🎮:** https://kihsotype.onrender.com <br>
 🔗 **Live📦:** https://www.npmjs.com/package/base64-blob-file <br>
 🔗 **Live👕:** https://playground-a987.onrender.com <br>
-🔗 **Live🔞:** Tourist (confidential Live)
+🔗 **Live :** Tourist (confidential Live)
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: An Essential Typing Tutor,
