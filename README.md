@@ -7,12 +7,13 @@
 Welcome to my GitHub profile! I'm passionate about building scalable web applications and solving real-world problems with code and making 2D Games using LOVE engine & Lua script😉
 
 ## 🔧 **Skills**
-- **Languages**: JavaScript, SQL, C++, TypeScript , Lua , 
+- **Languages**: JavaScript, TypeScript, Lua , C , C++ , SQL , Solidity ,
+- **Networking**: WebRTC , WebSockets , 
 - **Database** : MYSQL, MongoDB,
-- **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind ,  
+- **Frameworks**: React, Node.js, Express, GSAP , Bootstrap ,Tailwind, Framer-Motion ,Socket-io ,
 - **Game Engine** : LÖVE ,
-- **Tools**: Git, VS Code, Mongoose , Bash , 
-- **Cloud**:Cloudinary, MongoDBAtlas,
+- **Tools**: Git, VS Code, Mongoose , Bash ,  WebStorm , RemixIDE
+- **Cloud**:Cloudinary, MongoDBAtlas ,
 - **Other**: DSA - C++
 
 <p align="left">
