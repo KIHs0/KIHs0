@@ -108,12 +108,14 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ## 🛠️🕹️ **LIVE Projects**
 🔗 **Live🎮:** https://kihsotype.onrender.com <br>
+🔗 **Live🗨️:** https://x-dapp.onrender.com <br>
 🔗 **Live📦:** https://www.npmjs.com/package/base64-blob-file <br>
 🔗 **Live👕:** https://playground-a987.onrender.com <br>
 🔗 **Live :** Tourist (confidential Live)
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: An Essential Typing Tutor,
+- **[X-DAPP](https://github.com/KIHs0/X-Dapp.git)**: [ MetaMask Wallet Needed ] ,
 - **[Tourist]()**: Anonymous Video Sharing PLatform ,
 - **[npm Package](https://github.com/KIHs0/base64-blob-file)**: An NPM Package Useful While Working With URL and FILE ,
   
