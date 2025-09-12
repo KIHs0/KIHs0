@@ -27,8 +27,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="54" height="54" alt="JavaScript" />
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
     <img src="https://www.typescriptlang.org/favicon.ico" alt="TypeScript" />
+  </a>
+   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SolidJS-Dark.svg" width="54" height="54" alt="Solidity" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="54" height="54" alt="VS Code" />
@@ -46,7 +50,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="54" height="54" alt="HTML5" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="54" height="54" alt="CSS3" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="54" height="54" alt="CSS3" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="54" height="54" alt="Bootstrap" />
@@ -54,7 +58,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="54" height="54" alt="NodeJS" />
   </a>
-
 
   <a href="https://reduxjs.org/" target="_blank" rel="noreferrer">
     <img src="https://redux.js.org/img/redux.svg" width="54" height="54" alt="React" />
@@ -82,7 +85,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" width="54" height="54" alt="GSAP" style="background: white;" />
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/3f3fe513-db19-4161-9c1f-34e310d41236" width="54" height="54" alt="Express.js" style="background: white; border-radius: 6px; padding: 4px;" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="54" height="54" alt="Express.js" style="background: white; border-radius: 6px; padding: 4px;" />
 </a>
 
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
