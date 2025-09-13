@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Cloud**:Cloudinary, MongoDBAtlas ,
 - **Other**: DSA - C++
 
-<p align="left">
+<p align="right">
 
 
 
