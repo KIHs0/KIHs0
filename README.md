@@ -1,6 +1,6 @@
 ![spidy4](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxsdjkxN2Jrc3NsdXZ6OHY1MnlidncxNjg4ZjZ5enoxdzk3N3pieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpgugiuK6b7Biy3rOs/giphy.gif)                                                                                       
  
- Hi,Welcome Thou ~👋
+ Hi,Welcome Thou ~.👋
 
 **Full-Stack Developer** | | 🕹️ 2D Game DEV | 💻 **Open Source Enthusiast** | 🌱 **Always Learning** 
 
