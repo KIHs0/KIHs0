@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - **Cloud**:Cloudinary, MongoDBAtlas ,
 - **Other**: DSA - C++
 
-<p align="right">
+<p align="left">
 
 
 
@@ -111,11 +111,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 
 ## 🛠️🕹️ **LIVE Projects**
-🔗 **Live🎮:** https://kihsotype.onrender.com <br>
 🔗 **Live🗨️:** https://x-dapp.onrender.com <br>
-🔗 **Live📦:** https://www.npmjs.com/package/base64-blob-file <br>
+🔗 **Live🗨️:** https://coffeeme.onrender.com <br>
 🔗 **Live👕:** https://playground-a987.onrender.com <br>
-🔗 **Live :** Tourist (confidential Live)
+🔗 **Live📦:** https://www.npmjs.com/package/base64-blob-file <br>
+🔗 **Live🎮:** https://kihsotype.onrender.com ** 50 sec Delayed <br> 
+🔗 **Live :** Tourist (Confidential Live)
 
 ## 🛠️ **Projects**
 - **[KIHSOTYPE](https://github.com/KIHs0/KIHSOTYPE.git)**: An Essential Typing Tutor,
